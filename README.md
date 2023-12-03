@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **satishsaha09@gmail.com**
 
-- 📄 Know about my experiences [https://l1nk.dev/pjRpY](https://l1nk.dev/pjRpY)
+- 📄 Know about my experiences [https://l1nk.dev/kacNc](https://l1nk.dev/kacNc)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

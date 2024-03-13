@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Satish Saha</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 
-- 🌱 I’m currently learning **React , MongoDB, Express.js, Node.js**
+- 🌱 I’m currently learning **React , Tailwind CSS, MongoDB, Express.js, Node.js**
 
 - 💬 Ask me about **react, html ,Tailwind Css**
 
